@@ -1,0 +1,10 @@
+D:\visual\ManagerProjectDotNet\ManagerProjectDotNet\bin\Debug\ManagerProjectDotNet.exe.config
+D:\visual\ManagerProjectDotNet\ManagerProjectDotNet\bin\Debug\ManagerProjectDotNet.exe
+D:\visual\ManagerProjectDotNet\ManagerProjectDotNet\bin\Debug\ManagerProjectDotNet.pdb
+D:\visual\ManagerProjectDotNet\ManagerProjectDotNet\obj\Debug\ManagerProjectDotNet.csproj.AssemblyReference.cache
+D:\visual\ManagerProjectDotNet\ManagerProjectDotNet\obj\Debug\ManagerProjectDotNet.csproj.SuggestedBindingRedirects.cache
+D:\visual\ManagerProjectDotNet\ManagerProjectDotNet\obj\Debug\ManagerProjectDotNet.Properties.Resources.resources
+D:\visual\ManagerProjectDotNet\ManagerProjectDotNet\obj\Debug\ManagerProjectDotNet.csproj.GenerateResource.cache
+D:\visual\ManagerProjectDotNet\ManagerProjectDotNet\obj\Debug\ManagerProjectDotNet.csproj.CoreCompileInputs.cache
+D:\visual\ManagerProjectDotNet\ManagerProjectDotNet\obj\Debug\ManagerProjectDotNet.exe
+D:\visual\ManagerProjectDotNet\ManagerProjectDotNet\obj\Debug\ManagerProjectDotNet.pdb
